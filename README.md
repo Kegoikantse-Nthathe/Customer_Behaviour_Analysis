@@ -22,8 +22,8 @@ Shopping behavior (Discount usage, Purchase frequency, Review rating, Shipping t
 Data Quality: Minor missing values handled during preprocessing
 Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib/Seaborn)  
-SQL (PostgreSQL / MySQL / SQL Server)  
+Python 
+SQL 
 Power BI  
 PowerPoint  
 Git & GitHub  
