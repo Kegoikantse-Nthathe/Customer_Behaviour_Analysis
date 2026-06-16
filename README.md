@@ -1,11 +1,13 @@
 # Customer_Behaviour_Analysis
 Customer Shopping Behavior Analysis
 
-Overview
+# Overview
 
 This project focuses on analyzing customer shopping behavior using transactional retail data. It demonstrates an end-to-end data analytics workflow, starting from data loading and cleaning in Python, moving through SQL-based business analysis, and ending with insights presented via Power BI dashboards and PowerPoint reports.
 
 The goal is to extract actionable insights related to customer behavior, product performance, discounts, subscriptions, and revenue trends to support data-driven decision making.
+
+
 
 Note: This project was tutored and presented step-by-step by @amlanmohanty1 using his YouTube tutorial:
 https://youtu.be/5PrZvPeUw60?si=bgiyiMJKlE_yos_4
