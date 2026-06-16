@@ -16,7 +16,6 @@ An end-to-end data analytics project that explores customer shopping behaviour u
 📑 18 features<br>
 
 Includes:<br>
-<br>
 
 Customer demographics (Age, Gender, Location)<br>
 Purchase details (Products, Categories, Amount)<br>
@@ -51,14 +50,13 @@ Shopping behaviour (Discounts, Reviews, Shipping)<br>
 git clone https://github.com/Kegoikantse-Nthathe/Customer_Behaviour_Analysis.git
 <br>
 Run the Python notebooks, execute the SQL queries, and explore the Power BI dashboard for insights.
-<br>
+
 ## 🙏 Acknowledgment
 <br>
-This project was completed as part of a learning journey guided by **@amlanmohanty1**'s YouTube tutorial.
+This project was completed as part of a learning journey guided by __@amlanmohanty1__'s YouTube tutorial.
 <br>
 📺 Tutorial: https://youtu.be/5PrZvPeUw60?si=bgiyiMJKlE_yos_4
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5PrZvPeUw60?si=sSHb-6K2dB8xgyRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
+[![Watch the video](https://img.youtube.com/vi/5PrZvPeUw60/0.jpg)](https://www.youtube.com/watch?v=5PrZvPeUw60)
 
 ⭐ Feel free to explore, fork, and star this repository!
