@@ -13,7 +13,7 @@ An end-to-end data analytics project that explores customer shopping behaviour u
 ## 📂 Dataset 
 
 📊 3,900 customer transactions<br>
-📑 18 features<br>
+📑 18 columns<br>
 
 Includes:<br>
 
@@ -53,10 +53,9 @@ Run the Python notebooks, execute the SQL queries, and explore the Power BI dash
 
 ## 🙏 Acknowledgment
 <br>
-This project was completed as part of a learning journey guided by __@amlanmohanty1__'s YouTube tutorial.
+This project was completed as part of a learning journey guided by @amlanmohanty1's YouTube tutorial.
 <br>
 📺 Tutorial: https://youtu.be/5PrZvPeUw60?si=bgiyiMJKlE_yos_4
 <br>
-[![Watch the video](https://img.youtube.com/vi/5PrZvPeUw60/0.jpg)](https://www.youtube.com/watch?v=5PrZvPeUw60)
 
-⭐ Feel free to explore, fork, and star this repository!
+# ⭐ Feel free to explore, fork, and star this repository!
